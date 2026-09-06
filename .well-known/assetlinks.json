@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.climbdiary.v3",
+      "sha256_cert_fingerprints": [
+        "E0:74:00:96:C3:C6:48:A3:D3:36:71:66:ED:D0:11:5B:22:40:3A:43:A5:E0:E6:0A:57:C7:FB:19:D1:D1:77:09"
+      ]
+    }
+  }
+]
